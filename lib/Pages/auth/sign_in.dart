@@ -133,9 +133,7 @@ class _SignInState extends State<SignIn> {
                 Divider(thickness: 1.2),
                 SizedBox(height: 16),
                 OutlinedButton.icon(
-                  onPressed: () {
-                    // TODO: Google Sign-In
-                  },
+                  onPressed: () {},
                   icon: Icon(Icons.login), // مؤقتاً حتى تضع أيقونة Google
                   label: Text("Sign in with Google"),
                   style: OutlinedButton.styleFrom(
