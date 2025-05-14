@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:mas_market/Pages/app/main/App%20Main%20Screen/app_main_screen.dart';
+import 'package:mas_market/Pages/app/App%20Main%20Screen/app_main_screen.dart';
 import 'package:mas_market/Pages/auth/sign_in.dart';
 // import 'package:mas_market/Pages/app/main/On%20Bording/on_bording.dart';
 import 'package:mas_market/core/service/auth_service.dart';

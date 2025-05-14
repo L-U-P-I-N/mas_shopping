@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:mas_market/Pages/app/main/home_screen.dart';
-import 'package:mas_market/Pages/app/main/profiled.dart';
+import 'package:mas_market/Pages/main/home/home_screen.dart';
+import 'package:mas_market/Pages/main/profiled.dart';
 import 'package:mas_market/core/theme/app_colors.dart';
 
 class AppMainScreen extends StatefulWidget {

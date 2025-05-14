@@ -1,7 +1,7 @@
 import 'package:get/route_manager.dart';
 import 'package:get/utils.dart';
 import 'package:mas_market/Pages/auth/sign_in.dart';
-import 'package:mas_market/Pages/app/main/On%20Bording/on_bording.dart';
+import 'package:mas_market/Pages/app/On%20Bording/on_bording.dart';
 // import 'package:mq_market/Pages/auth/sign_in.dart';
 // import 'package:mq_market/Pages/main/On%20Bording/on_bording.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';

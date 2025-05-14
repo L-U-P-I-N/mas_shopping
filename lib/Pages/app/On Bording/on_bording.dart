@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/route_manager.dart';
-import 'package:mas_market/Pages/app/main/App%20Main%20Screen/app_main_screen.dart';
-import 'package:mas_market/Pages/app/main/On%20Bording/custom_clip.dart';
+import 'package:mas_market/Pages/app/App%20Main%20Screen/app_main_screen.dart';
+import 'package:mas_market/Pages/app/On%20Bording/custom_clip.dart';
 import 'package:mas_market/core/model/onbording.dart';
 import 'package:mas_market/core/theme/app_colors.dart';
 
